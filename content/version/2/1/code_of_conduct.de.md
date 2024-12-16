@@ -1,6 +1,6 @@
 +++
-version = "2.0"
-aliases = ["/version/2/0/de"]
+version = "2.1"
+aliases = ["/version/2/1/de"]
 +++
 
 # Vereinbarung über Verhaltenskodex für Mitwirkende
@@ -10,10 +10,10 @@ aliases = ["/version/2/0/de"]
 Wir als Mitglieder, Teilnehmende und Verantwortliche unserer Gemeinschaft
 verpflichten uns, allen Teilnehmenden an dem Projekt und unserer Gemeinschaft
 eine belästigungsfreie Beteiligung, unabhängig von Alter, Körpergröße,
-Behinderung, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und -ausdruck,
-Grad der Erfahrung, Bildung, sozialem Status, Nationalität, persönlicher
-Erscheinung, Rasse, Religion oder sexueller Identität und Orientierung
-zu ermöglichen.
+Behinderung, ethnischer Zuordnung, Geschlechtermerkmalen, -identität und
+-ausdruck, Grad der Erfahrung, Bildung, sozialem Status, Nationalität,
+persönlicher Erscheinung, Rasse, Kaste, Hautfarbe, Religion oder sexueller
+Identität und Orientierung zu ermöglichen.
 
 Wir verpflichten uns, in einer Weise zu handeln und zu interagieren, die zu
 einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft
@@ -27,15 +27,15 @@ Gemeinschaft beitragen, sind:
 - Einfühlungsvermögen und Freundlichkeit gegenüber anderen Menschen zeigen
 - Unterschiedliche Meinungen, Standpunkte und Erfahrungen respektieren
 - Konstruktives Feedback geben und würdevoll annehmen
-- Verantwortung übernehmen und uns bei denjenigen entschuldigen, die von unseren
-  Fehlern betroffen sind, und aus den Erfahrungen lernen
+- Verantwortung übernehmen und uns bei denjenigen entschuldigen, die von
+  unseren Fehlern betroffen sind, und aus den Erfahrungen lernen
 - Konzentration auf das, was nicht nur für uns als Individuen, sondern für die
   gesamte Gemeinschaft das Beste ist
 
 Beispiele für inakzeptables Verhalten sind:
 
-- Die Verwendung sexualisierter Sprache, Bilder oder Symbolik sowie unerwünschte
-  Versuche sexueller Annäherung
+- Die Verwendung sexualisierter Sprache, Bilder oder Symbolik sowie
+  unerwünschte Versuche sexueller Annäherung
 - Beleidigende oder abwertende Kommentare, persönliche oder politische Angriffe
   und Trollen
 - Öffentliche oder private Belästigungen
@@ -60,11 +60,11 @@ angebracht ist.
 ## Geltungsbereich
 
 Dieser Verhaltenskodex gilt für alle Gemeinschaftsbereiche und gilt auch, wenn
-eine Einzelperson die Gemeinschaft offiziell in öffentlichen Bereichen vertritt.
-Beispiele für die Repräsentation unserer Gemeinschaft sind die Verwendung einer
-offiziellen E-Mail-Adresse, das Posten über ein offizielles Social-Media-Konto
-oder das Auftreten als ernannte Vertretung bei einer Online- oder
-Offline-Veranstaltung.
+eine Einzelperson die Gemeinschaft offiziell in öffentlichen Bereichen
+vertritt. Beispiele für die Repräsentation unserer Gemeinschaft sind die
+Verwendung einer offiziellen E-Mail-Adresse, das Posten über ein offizielles
+Social-Media-Konto oder das Auftreten als ernannte Vertretung bei einer Online-
+oder Offline-Veranstaltung.
 
 ## Durchsetzung
 
@@ -85,8 +85,8 @@ diese Richtlinien über die Auswirkungen in der Gemeinschaft halten:
 ### 1. Berichtigung
 
 **Auswirkungen in der Gemeinschaft**: Verwendung unangemessener Sprache oder
-anderes Verhalten, das in der Gemeinschaft als unprofessionell oder unwillkommen
-gilt.
+anderes Verhalten, das in der Gemeinschaft als unprofessionell oder
+unwillkommen gilt.
 
 **Folge**: Eine private, schriftliche Verwarnung der Gemeinschaftsleitung,
 die Klarheit über die Art des Verstoßes und eine Erklärung dafür bietet, warum
@@ -122,8 +122,8 @@ Verbot führen.
 
 **Auswirkungen in der Gemeinschaft**: Aufzeigen eines Musters von Verletzungen
 der Gemeinschaftsstandards, einschließlich anhaltend unangemessenen Verhaltens,
-Belästigung einer Person oder Aggression gegen oder Herabsetzung von Gruppen von
-Personen.
+Belästigung einer Person oder Aggression gegen oder Herabsetzung von Gruppen
+von Personen.
 
 **Folge**: Ein dauerhaftes Verbot jeglicher Art von öffentlicher Interaktion
 innerhalb der Gemeinschaft.
@@ -131,17 +131,17 @@ innerhalb der Gemeinschaft.
 ## Bezug
 
 Dieser Verhaltenskodex basiert auf dem [Contributor Covenant][homepage],
-Version 2.0, verfügbar unter 
-<https://www.contributor-covenant.org/de/version/2/0/code_of_conduct>
+Version 2.1, verfügbar unter
+[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
-Community Impact Guidelines wurden von 
+Community Impact Guidelines wurden von
 [Mozillas Code of Conduct Enforcement Ladder][mozilla] inspiriert.
 
-Antworten auf häufig gestellte Fragen zu diesem Verhaltenskodex finden Sie in 
+Antworten auf häufig gestellte Fragen zu diesem Verhaltenskodex finden Sie in
 den häufig gestellten Fragen unter <https://www.contributor-covenant.org/faq>
-(in Englisch). Andere Übersetzungen sind verfügbar unter 
+(in Englisch). Andere Übersetzungen sind verfügbar unter
 <https://www.contributor-covenant.org/translations>.
 
 [homepage]: https://www.contributor-covenant.org
+[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [mozilla]: https://github.com/mozilla/inclusion
-
